@@ -1,2 +1,0 @@
-# portfolio-mwarno
-web-portfolio
